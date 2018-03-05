@@ -1,0 +1,7 @@
+FROM alpine
+RUN apk -U --no-cache add ca-certificates
+WORKDIR /dtd
+EXPOSE 8080
+ENTRYPOINT ["./dtd"]
+#ADD dtd.tar.gz /dtd
+# this file is required to end with an empty line
