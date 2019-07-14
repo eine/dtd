@@ -16,7 +16,7 @@
   "dependencies": {
     "bulma": "^0.6.2",
     "mdi": "^2.1.99",
-    "vue": "^2.5.13",
+    "vue": "^2.6.10",
     "vue-codemirror": "^4.0.3",
     "wavedrom": "github:1138-4EB/wavedrom#export-skins"
   },
@@ -26,7 +26,7 @@
     "@vue/cli-service": "^3.0.0-beta.4",
     "node-sass": "^4.7.2",
     "sass-loader": "^6.0.7",
-    "vue-template-compiler": "^2.5.13",
+    "vue-template-compiler": "^2.6.10",
     "webpack": "^4.1.0"
   },
   "babel": {
