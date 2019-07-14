@@ -14,7 +14,7 @@
 
 <script>
 import 'bulma/css/bulma.css';
-import 'mdi/css/materialdesignicons.min.css';
+import '@mdi/font/css/materialdesignicons.min.css';
 
 import Home from './components/Home.vue'
 import Settings from './components/Settings.vue'
