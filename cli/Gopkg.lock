@@ -113,11 +113,19 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:1c62a87f6a77def3be788ed3d4817731826913f02bad2558ae32010595ffa4c4"
+  digest = "1:9eccdbfad4cb6fc8419403aca3f2e82bb07692775cf62242b2a350edb0b65da4"
   name = "github.com/spf13/viper"
   packages = ["."]
   pruneopts = "UT"
-  revision = "aafc9e6bc7b7bb53ddaa75a5ef49a17d6e654be5"
+  revision = "e02bc9eca55d5fc66221bc0aeeaaa77410603914"
+
+[[projects]]
+  digest = "1:bb0d999fbfbc40f7bf42a24eca5e6894fa24a9efdad13d6908bea34bc3309722"
+  name = "github.com/subosito/gotenv"
+  packages = ["."]
+  pruneopts = "UT"
+  revision = "69b5b6104433beb2cb9c3ce00bdadf3c7c2d3f34"
+  version = "v1.1.1"
 
 [[projects]]
   branch = "master"
