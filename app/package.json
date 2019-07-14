@@ -18,7 +18,7 @@
     "mdi": "^2.1.99",
     "vue": "^2.5.13",
     "vue-codemirror": "^4.0.6",
-    "wavedrom": "github:1138-4EB/wavedrom#export-skins"
+    "wavedrom": "^2.1.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.4",
