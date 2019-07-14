@@ -14,7 +14,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "bulma": "^0.6.2",
+    "bulma": "^0.7.5",
     "@mdi/font": "^2.1.99",
     "vue": "^2.5.13",
     "vue-codemirror": "^4.0.6",
