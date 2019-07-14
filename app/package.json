@@ -17,7 +17,7 @@
     "bulma": "^0.6.2",
     "mdi": "^2.1.99",
     "vue": "^2.5.13",
-    "vue-codemirror": "^4.0.3",
+    "vue-codemirror": "^4.0.6",
     "wavedrom": "github:1138-4EB/wavedrom#export-skins"
   },
   "devDependencies": {
