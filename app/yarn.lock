@@ -5617,10 +5617,10 @@ onml@^0.4.5:
   dependencies:
     sax "^1.2.1"
 
-onml@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/onml/-/onml-1.0.0.tgz#5be50e68086d4cc3dc366e8e6c09b4f6d2491dde"
-  integrity sha512-ERbKS25JwdRcyQApIHzWMt4kKF4iL+PILinW8z99D66urI+BpcnFtQKHU2xgcax+FLWuCxnqArM5h9L6JJ4BnQ==
+onml@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/onml/-/onml-1.1.0.tgz#5ae05b674ca7628ad874c601926544dd370d8eed"
+  integrity sha512-36TSK1PgXU76O1ff9SpEz5Fh4F5f36oYW3uPe/chVCO+UeT3nOkZSxLWh8cbcLl9mHj+KYxPd99YT8kthvBSYA==
   dependencies:
     sax "^1.2.1"
 
@@ -8129,13 +8129,13 @@ watchpack@^1.6.0:
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
 
-wavedrom@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-2.1.2.tgz#530acb62af384d0beec8a9bf744a83ba986d667d"
-  integrity sha512-OnLTR8s26KQRapFS7i0qPb1Z1IgZ/XuyHYoMwzDDwIjF074CbZPWk8I3gCBsq3bIZ5fDlmT8CQl20xqBjUGebA==
+wavedrom@^2.1.5:
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-2.1.5.tgz#1cbf4434d7125e3fd120cf18fceb09d2c3710046"
+  integrity sha512-T50n+Vhw7KafvSt/14a5AFdIGZTS6RJzKzbcOWfVHgnEA4IDsGKUR6gotpkeljxlpNx5sbNQ+qofRFYKaPSyng==
   dependencies:
     bit-field "^1.0.3"
-    onml "^1.0.0"
+    onml "^1.1.0"
     tspan "^0.3.6"
 
 wbuf@^1.1.0, wbuf@^1.7.3:

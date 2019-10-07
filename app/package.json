@@ -18,7 +18,7 @@
     "@mdi/font": "^4.4.95",
     "vue": "^2.5.13",
     "vue-codemirror": "^4.0.6",
-    "wavedrom": "^2.1.2"
+    "wavedrom": "^2.1.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
