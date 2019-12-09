@@ -1765,10 +1765,10 @@ binary-extensions@^1.0.0:
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-1.13.1.tgz#598afe54755b2868a5330d2aff9d4ebb53209b65"
   integrity sha512-Un7MIEDdUC5gNpcGDV97op1Ywk748MpHcFTHoYs6qnj1Z3j7I53VG3nwZhKzoBZmbdRNnb6WRdFlwl7tSDuZGw==
 
-bit-field@^1.0.3:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/bit-field/-/bit-field-1.1.0.tgz#544347df65514a81d455e3b19e1459217b140536"
-  integrity sha512-UqTJQ8Zep2PHExFWXLg/JfXP9+Em/QyumWEeWpi5NJtbo0WEhrrPrjiJZT97jKJQlCZn8WvLVlzcjdg0oGR/1g==
+bit-field@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/bit-field/-/bit-field-1.2.0.tgz#08ffc25c6da342b917d18c19d6de541d05c8fa89"
+  integrity sha512-t7hJ/w56BUPFu7k5zDIgBe5mdleHfDoHo4Bn90H0iTStq0O49oehz7TnsGmjWkNPyTI/bPEmW7worcsRSIehIg==
   dependencies:
     fs-extra "^7.0.1"
     onml "^0.4.5"
@@ -8638,12 +8638,12 @@ watchpack@^1.6.0:
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
 
-wavedrom@^2.2.3:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-2.2.3.tgz#052cc37ef8fb87f940675f7c91eb0a1065ae531e"
-  integrity sha512-xgOC5+TNqAbp9/dADQ51F1ZAkGIYO4czXCJUfdfp7j0v1+YIZ8Q3DVGQ/ic/QBachSj+vCiqZ3SVzlqhMsKq2w==
+wavedrom@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-2.3.0.tgz#9ed1608dcb701aa1ada52ad4bad8bfa528ff3c75"
+  integrity sha512-uHPs4q/XaELHkGx8kjG3E/2puZIOD+Kcu6TZDkj8uCflBsmrXI+eTfNGDm3YjHUXsyvLaQjY4oKlBocIIMztcg==
   dependencies:
-    bit-field "^1.0.3"
+    bit-field "^1.2.0"
     fs-extra "^8.0.1"
     json5 "^2.1.1"
     onml "^1.1.0"
