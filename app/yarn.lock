@@ -8747,10 +8747,10 @@ watchpack@^1.6.0:
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
 
-wavedrom@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-2.3.1.tgz#e999f9cddc64cb4a5f96d6fbabfe496c91e193e2"
-  integrity sha512-JE4vUJsDOemPz74nKn8amfkjlcArfD0ENKLJLS7enxTuoBUALUF2gSlbX+ooI2eTuhvpX+5Vctp97Fp22hyDSg==
+wavedrom@^2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-2.3.2.tgz#dd49724efb1d6e3d9d2b1882faf3a2a712396025"
+  integrity sha512-QarFXQnE52zyZeKVUWgDaAx9bxwiF+fTlTpNWxdWnBVYmIfC9vKQWqKqq9sKsp9dgeWp7f5fw0fQ01MgCeWgCw==
   dependencies:
     bit-field "^1.2.1"
     fs-extra "^8.0.1"
