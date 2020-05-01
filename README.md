@@ -1,3 +1,10 @@
+<p align="center">
+  <a title="Frontend Dependency Status" href="https://david-dm.org/1138-4EB/dtd?path=app"><img src="https://img.shields.io/david/1138-4EB/dtd.svg?path=app&longCache=true&style=flat-square&label=frontend%20deps"></a><!--
+  -->
+  <a title="Frontend DevDependency Status" href="https://david-dm.org/1138-4EB/dtd?path=app&type=dev"><img src="https://img.shields.io/david/dev/1138-4EB/dtd.svg?path=app&longCache=true&style=flat-square&label=frontend%20devdeps"></a><!--
+  -->
+</p>
+
 # [DTD] Yet another Digital Timing Diagram tool
 
 ## Waveform description formats
