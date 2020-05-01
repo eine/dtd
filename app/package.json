@@ -21,7 +21,7 @@
     "wavedrom": "^2.3.2"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.2.3",
+    "@vue/cli-plugin-babel": "^4.3.1",
     "@vue/cli-plugin-eslint": "^3.12.1",
     "@vue/cli-service": "^4.2.3",
     "node-sass": "^4.13.1",
