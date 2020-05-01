@@ -1,0 +1,4 @@
+api/vendor
+cli/vendor
+app/node_modules
+app/dist
