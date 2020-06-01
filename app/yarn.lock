@@ -1832,10 +1832,10 @@ bindings@^1.5.0:
   dependencies:
     file-uri-to-path "1.0.0"
 
-bit-field@^1.3.3:
-  version "1.3.3"
-  resolved "https://registry.yarnpkg.com/bit-field/-/bit-field-1.3.3.tgz#7a50466656ee34bd005ce9e354d6c217392fe98b"
-  integrity sha512-QSxF2fWHr7VwaDO0H33pwdODRCsyWzv92r8Wr9j/sV2Pb1T/2uU40+qCQhjhGfGEwE/nz9cvNMHyz9AdqMyYwg==
+bit-field@^1.3.6:
+  version "1.3.6"
+  resolved "https://registry.yarnpkg.com/bit-field/-/bit-field-1.3.6.tgz#6d41c4401c7110bb7466440ad9406903ee939472"
+  integrity sha512-gu+wXJ+saekzja7tSRygoR+M+C88U0IoVTdp0SmZj5tyDwSkWmZNhSUkBmHx2NNZcSAB0gu9g8yBd1Kn7ECVmw==
   dependencies:
     fs-extra "^8.1.0"
     onml "^1.2.0"
@@ -5014,13 +5014,6 @@ json5@^1.0.1:
   integrity sha512-aKS4WQjPenRxiQsC93MNfjx+nbF4PAdYzmd/1JIj8HYzqfbu86beTuNgXDzPknWk0n0uARlyewZo4s++ES36Ow==
   dependencies:
     minimist "^1.2.0"
-
-json5@^2.1.1:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-2.1.2.tgz#43ef1f0af9835dd624751a6b7fa48874fb2d608e"
-  integrity sha512-MoUOQ4WdiN3yxhm7NEVJSJrieAo5hNSLQ5sj05OTRHPL9HOBy8u4Bu88jsC1jvqAdN+E1bJmsUcZH+1HQxliqQ==
-  dependencies:
-    minimist "^1.2.5"
 
 json5@^2.1.2:
   version "2.1.3"
@@ -8592,18 +8585,15 @@ watchpack@^1.6.1:
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
 
-wavedrom@^2.6.3:
-  version "2.6.3"
-  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-2.6.3.tgz#c7a02d067990e23d56e54ccae571505c35324f08"
-  integrity sha512-bqGC1Ff/r1dHAqB8Xh0QBBTujl49Y6SWiTlpm//KDYS6dDy8hfC3D6/PKYFOJ67J0izEIC1HN5Mfq8gcQRmiHg==
+wavedrom@^2.6.8:
+  version "2.6.8"
+  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-2.6.8.tgz#058b6807745a2995ec1276bdbe66a2836e809218"
+  integrity sha512-22Q7Re0enLYFH00/ztHYsryJUUDAZcXKI9cvvtP4CtK03bb6NNjw2b/npUHNp/QI0pcP3xP1a43J3GkspdkziA==
   dependencies:
-    bit-field "^1.3.3"
-    fs-extra "^8.1.0"
-    json5 "^2.1.1"
+    bit-field "^1.3.6"
     logidrom "^0.2.1"
     onml "^1.2.0"
     tspan "^0.4.0"
-    yargs "^15.3.1"
 
 wbuf@^1.1.0, wbuf@^1.7.3:
   version "1.7.3"
