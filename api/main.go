@@ -15,7 +15,7 @@ import (
 	"path/filepath"
 
 	"github.com/gorilla/mux"
-	flag "github.com/ogier/pflag"
+	flag "github.com/spf13/pflag"
 
 	"github.com/eine/dtd/api/handler"
 )
