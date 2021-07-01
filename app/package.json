@@ -14,20 +14,20 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "bulma": "^0.9.2",
+    "bulma": "^0.9.3",
     "@mdi/font": "^5.9.55",
     "vue": "^2.6.12",
     "vue-codemirror": "^4.0.6",
-    "wavedrom": "^2.6.8"
+    "wavedrom": "^2.8.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.11",
     "@vue/cli-plugin-eslint": "^4.5.11",
     "@vue/cli-service": "^4.5.11",
-    "node-sass": "^6.0.0",
-    "sass-loader": "^11.0.1",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^12.1.0",
     "vue-template-compiler": "^2.6.12",
-    "webpack": "^5.36.2"
+    "webpack": "^5.41.1"
   },
   "babel": {
     "presets": [
