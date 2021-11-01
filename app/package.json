@@ -15,19 +15,19 @@
   },
   "dependencies": {
     "bulma": "^0.9.3",
-    "@mdi/font": "^6.1.95",
+    "@mdi/font": "^6.4.95",
     "vue": "^2.6.12",
     "vue-codemirror": "^4.0.6",
-    "wavedrom": "^2.8.1"
+    "wavedrom": "^2.9.0"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.5.11",
-    "@vue/cli-plugin-eslint": "^4.5.11",
-    "@vue/cli-service": "^4.5.11",
+    "@vue/cli-plugin-babel": "^4.5.15",
+    "@vue/cli-plugin-eslint": "^4.5.15",
+    "@vue/cli-service": "^4.5.15",
     "node-sass": "^6.0.1",
-    "sass-loader": "^12.1.0",
+    "sass-loader": "^12.3.0",
     "vue-template-compiler": "^2.6.12",
-    "webpack": "^5.55.1"
+    "webpack": "^5.56.0"
   },
   "babel": {
     "presets": [
