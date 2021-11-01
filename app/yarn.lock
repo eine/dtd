@@ -2129,7 +2129,7 @@ bindings@^1.5.0:
   dependencies:
     file-uri-to-path "1.0.0"
 
-bit-field@^1.5.1:
+bit-field@^1.5.3:
   version "1.5.3"
   resolved "https://registry.yarnpkg.com/bit-field/-/bit-field-1.5.3.tgz#537e1085aa6b47da93d78cbf966313914506783f"
   integrity sha512-bSrkdGpRwPWWi9WOrrMV9xcF1PQAKGG5HnNgVUntIaL1OFND2n7LBM4p1VGXF6OYMKap0vB/OmzOhneDfSgIpg==
@@ -8709,12 +8709,12 @@ watchpack@^2.2.0:
     glob-to-regexp "^0.4.1"
     graceful-fs "^4.1.2"
 
-wavedrom@^2.8.1:
-  version "2.8.1"
-  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-2.8.1.tgz#90231f4808d0ca6e0e03b8a0914366e6242c26ed"
-  integrity sha512-UTU27qnkfv+qLCwilm+T+m6zcPzSFP7i5HgtZkihbDeVIUasa3npnWhK3ogJ6gmOYhTK1lIh8KDztEuod2CM/g==
+wavedrom@^2.9.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-2.9.0.tgz#8e1de57d4a03190a157ab363866d800d7abe654d"
+  integrity sha512-PazQFmo/DFJU5AoZt+1LxKTEkgokK8Q1Nsc1s/6Y6LEY9z4WKv8RWn6uvh+p6Jh1sLezknACZTCrTasvpwEaiQ==
   dependencies:
-    bit-field "^1.5.1"
+    bit-field "^1.5.3"
     logidrom "^0.3.1"
     onml "^2.1.0"
     tspan "^0.4.0"
