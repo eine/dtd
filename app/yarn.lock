@@ -8909,10 +8909,10 @@ watchpack@^2.3.1:
     glob-to-regexp "^0.4.1"
     graceful-fs "^4.1.2"
 
-wavedrom@^2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-2.9.0.tgz#8e1de57d4a03190a157ab363866d800d7abe654d"
-  integrity sha512-PazQFmo/DFJU5AoZt+1LxKTEkgokK8Q1Nsc1s/6Y6LEY9z4WKv8RWn6uvh+p6Jh1sLezknACZTCrTasvpwEaiQ==
+wavedrom@^2.9.1:
+  version "2.9.1"
+  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-2.9.1.tgz#df15d71744c65aae7c3470ef1e6d83f3149768f2"
+  integrity sha512-IPv1bKVwh4Zo8dMMQfnNy4KFqU/v0buoPDwLkTrtHE2nr0dV4pHqryhWpqNCSUm7xTWroER+nE5xRkng96xLUA==
   dependencies:
     bit-field "^1.5.3"
     logidrom "^0.3.1"
