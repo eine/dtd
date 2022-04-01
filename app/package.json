@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "bulma": "^0.9.3",
-    "@mdi/font": "^6.5.95",
+    "@mdi/font": "^6.6.96",
     "vue": "^3.2.31",
     "vue-codemirror": "^4.0.6",
     "wavedrom": "^2.9.1"
