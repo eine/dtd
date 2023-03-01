@@ -2037,15 +2037,15 @@ binary-extensions@^2.0.0:
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-2.2.0.tgz#75f502eeaf9ffde42fc98829645be4ea76bd9e2d"
   integrity sha512-jDctJ/IVQbZoJykoeHbhXpOlNBqGNcwXJKJog42E5HDPUwQTSdjCHdihjj0DlnheQ7blbT6dHOafNAiS8ooQKA==
 
-bit-field@^1.5.3:
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/bit-field/-/bit-field-1.5.3.tgz#537e1085aa6b47da93d78cbf966313914506783f"
-  integrity sha512-bSrkdGpRwPWWi9WOrrMV9xcF1PQAKGG5HnNgVUntIaL1OFND2n7LBM4p1VGXF6OYMKap0vB/OmzOhneDfSgIpg==
+bit-field@^1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/bit-field/-/bit-field-1.8.0.tgz#e2430ec44b15aa65eff2e8ad40d8e22c421edc12"
+  integrity sha512-xChg+vwCPZckjT1s0bJU5KbGWVqA+LDsi4YOiXVFntl+yzlPpBMdyeDU/wTTqoKAZAdOMDfGjpOUyP+untdOWQ==
   dependencies:
-    fs-extra "^10"
+    fs-extra "^10.1.0"
     onml "^2.1.0"
     tspan "^0.4.0"
-    yargs "^17"
+    yargs "^17.6.2"
 
 bl@^4.1.0:
   version "4.1.0"
@@ -2361,6 +2361,15 @@ cliui@^7.0.2, cliui@^7.0.4:
   dependencies:
     string-width "^4.2.0"
     strip-ansi "^6.0.0"
+    wrap-ansi "^7.0.0"
+
+cliui@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/cliui/-/cliui-8.0.1.tgz#0c04b075db02cbfe60dc8e6cf2f5486b1a3608aa"
+  integrity sha512-BSeNnyus75C4//NQ9gQt1/csTXyo/8Sb+afLAkzAptFuMsod9HFokGNudZpi/oQV73hnVK+sR+5PVRMd+Dr7YQ==
+  dependencies:
+    string-width "^4.2.0"
+    strip-ansi "^6.0.1"
     wrap-ansi "^7.0.0"
 
 clone-deep@^4.0.1:
@@ -3317,10 +3326,10 @@ fresh@0.5.2:
   resolved "https://registry.yarnpkg.com/fresh/-/fresh-0.5.2.tgz#3d8cadd90d976569fa835ab1f8e4b23a105605a7"
   integrity sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac=
 
-fs-extra@^10:
-  version "10.0.1"
-  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-10.0.1.tgz#27de43b4320e833f6867cc044bfce29fdf0ef3b8"
-  integrity sha512-NbdoVMZso2Lsrn/QwLXOy6rm0ufY2zEOKCDzJR/0kBsb0E6qed0P3iYK+Ath3BfvXEeu4JhEtXLgILx5psUfag==
+fs-extra@^10.1.0:
+  version "10.1.0"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-10.1.0.tgz#02873cfbc4084dde127eaa5f9905eef2325d1abf"
+  integrity sha512-oRXApq54ETRj4eMiFzGnHWGy+zo5raudjuxN0b8H7s/RU2oW0Wvsx9O0ACRN/kRq9E8Vu/ReskGB5o3ji+FzHQ==
   dependencies:
     graceful-fs "^4.2.0"
     jsonfile "^6.0.1"
@@ -6504,12 +6513,12 @@ watchpack@^2.3.1:
     glob-to-regexp "^0.4.1"
     graceful-fs "^4.1.2"
 
-wavedrom@^2.9.1:
-  version "2.9.1"
-  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-2.9.1.tgz#df15d71744c65aae7c3470ef1e6d83f3149768f2"
-  integrity sha512-IPv1bKVwh4Zo8dMMQfnNy4KFqU/v0buoPDwLkTrtHE2nr0dV4pHqryhWpqNCSUm7xTWroER+nE5xRkng96xLUA==
+wavedrom@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/wavedrom/-/wavedrom-3.2.0.tgz#ace1d0a0e0c141fc574f8f817266c7352e1319e9"
+  integrity sha512-7U0JuNbYKD84Xwf3Ofxc9M0BRUOWJ/aNhGHtkuujiH012re5q3qoEUtJtSvQjMjY2E5w6Nz2fToW7JzM72kg6w==
   dependencies:
-    bit-field "^1.5.3"
+    bit-field "^1.8.0"
     logidrom "^0.3.1"
     onml "^2.1.0"
     tspan "^0.4.0"
@@ -6766,6 +6775,11 @@ yargs-parser@^21.0.0:
   resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-21.0.1.tgz#0267f286c877a4f0f728fceb6f8a3e4cb95c6e35"
   integrity sha512-9BK1jFpLzJROCI5TzwZL/TU4gqjK5xiHV/RfWLOahrjAko/e4DJkRDZQXfvqAsiZzzYhgAzbgz6lg48jcm4GLg==
 
+yargs-parser@^21.1.1:
+  version "21.1.1"
+  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-21.1.1.tgz#9096bceebf990d21bb31fa9516e0ede294a77d35"
+  integrity sha512-tVpsJW7DdjecAiFpbIB1e3qxIQsE6NoPc5/eTdrbbIC4h0LVsWhnoa3g+m2HclBIujHzsxZ4VJVA+GUuc2/LBw==
+
 yargs@^16.0.0:
   version "16.2.0"
   resolved "https://registry.yarnpkg.com/yargs/-/yargs-16.2.0.tgz#1c82bf0f6b6a66eafce7ef30e376f49a12477f66"
@@ -6779,7 +6793,7 @@ yargs@^16.0.0:
     y18n "^5.0.5"
     yargs-parser "^20.2.2"
 
-yargs@^17, yargs@^17.2.1:
+yargs@^17.2.1:
   version "17.3.1"
   resolved "https://registry.yarnpkg.com/yargs/-/yargs-17.3.1.tgz#da56b28f32e2fd45aefb402ed9c26f42be4c07b9"
   integrity sha512-WUANQeVgjLbNsEmGk20f+nlHgOqzRFpiGWVaBrYGYIGANIIu3lWjoyi0fNlFmJkvfhCZ6BXINe7/W2O2bV4iaA==
@@ -6791,6 +6805,19 @@ yargs@^17, yargs@^17.2.1:
     string-width "^4.2.3"
     y18n "^5.0.5"
     yargs-parser "^21.0.0"
+
+yargs@^17.6.2:
+  version "17.7.1"
+  resolved "https://registry.yarnpkg.com/yargs/-/yargs-17.7.1.tgz#34a77645201d1a8fc5213ace787c220eabbd0967"
+  integrity sha512-cwiTb08Xuv5fqF4AovYacTFNxk62th7LKJ6BL9IGUpTJrWoU7/7WdQGTP2SjKf1dUNBGzDd28p/Yfs/GI6JrLw==
+  dependencies:
+    cliui "^8.0.1"
+    escalade "^3.1.1"
+    get-caller-file "^2.0.5"
+    require-directory "^2.1.1"
+    string-width "^4.2.3"
+    y18n "^5.0.5"
+    yargs-parser "^21.1.1"
 
 yorkie@^2.0.0:
   version "2.0.0"
